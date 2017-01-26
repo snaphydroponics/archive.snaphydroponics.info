@@ -26,7 +26,7 @@ twitter_username: snaphydroponics
 # Build settings
 author: The SNAP Grower
 markdown: kramdown
-theme: jekyll-theme-tactile
+theme: jekyll-minima
 gems:
   - jekyll-feed
   - jekyll-sitemap
