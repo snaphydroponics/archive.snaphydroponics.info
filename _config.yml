@@ -35,3 +35,4 @@ exclude:
   - Gemfile.lock
 disqus:
   shortname: snaphydroponics
+google_analytics: UA-29098575-5
