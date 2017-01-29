@@ -13,7 +13,7 @@ hydroponics in the following video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q638b9XX4vI" frameborder="0" allowfullscreen></iframe>
 
-This purpose of this website is to serve as an online repository of information
+The purpose of this website is to serve as an online repository for information
 about SNAP Hydroponics.
 
 Got any questions? Please check out the [FAQ](/faq). If any other questions not
@@ -30,4 +30,4 @@ when your SNAP garden is up and running.
 
 *Disclaimer:* The [maintainer](http://marcoenri.co) of this website is a SNAP
 hobbyist. He is not involved in the development, manufacture or sale of SNAP
-Hydroponic solutions.
+hydroponic solutions.
