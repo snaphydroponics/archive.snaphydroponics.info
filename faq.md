@@ -5,31 +5,54 @@ short-title: FAQ
 permalink: /faq/
 ---
 
+## What is hydroponics?
+
+From [wikipedia](https://en.wikipedia.org/wiki/Hydroponics):
+
+> Hydroponics is a subset of hydroculture, the method of growing plants without
+soil, using mineral nutrient solutions in a water solvent.
+
 ## What is SNAP Hydroponics?
 
 SNAP stands for Simple Nutrient Addition Program. It is a low-cost,
 low-maintenance hydroponics system that is designed for household and
 small-scale vegetable production.
 
+
 ## Where can I buy SNAP solutions?
 
-You can buy them from UPLB-IPB and distributors. There are solutions being sold
-and marketed as SNAP Hydroponics. Unfortunately the top hits when searching
-the internet for SNAP hydroponics are selling illegitimate products. I'm still
-waiting for a complete list of authorized distributors.
+You can buy them from UPLB-IPB and authorized distributors. Unfortunately, the
+top hits when searching the internet for SNAP hydroponics are selling illegitimate
+products. I'm still waiting for a complete list of authorized distributors.
+
 
 ## Where can I buy seeds?
 
-You can buy them from your local garden/agri centers. They are also available
-in Ace Hardware.
+You can buy them from your local garden or agri centers. They are also available
+in the garden section of Ace Hardware.
+
+## Where can I buy coco coir?
+
+You can buy them from your local garden or agri centers. They are also available
+in the garden section of Ace Hardware.
+
+## Where can I buy styro boxes?
+
+
+You can buy them from fruit vendors that sell imported grapes and the like. Just
+walk around your local public market and ask for them.
+
 
 ## What do I do with the spent solution left in the reservoir after I harvest my crops?
 
-You can use them to water you regular potted plants.
+You can use them to water you regular potted plants or even reuse them for your
+next grow.
+
 
 ## What does SNAP A/B solution contain?
 
 Please see the [MDS sheet](/files/Combined MSDS for SNAP A And B.pdf) for SNAP A/B solutions.
+
 
 ## Who are you?
 

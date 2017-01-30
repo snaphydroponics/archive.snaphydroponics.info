@@ -5,18 +5,18 @@ permalink: /about/
 author: Marco Enrico
 ---
 
-Hello! Welcome to the unofficial website of SNAP Hydroponics.
+Hello! Welcome to the website dedicated to SNAP Hydroponics.
 
 Wondering what SNAP Hydroponics is all about? Dr. Santos of UPLB Institute
 of Plant Breeding explains what Simple Nutrient Addition Program or SNAP
-hydroponics in the following video:
+hydroponics is all about in the following video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q638b9XX4vI" frameborder="0" allowfullscreen></iframe>
 
 The purpose of this website is to serve as an online repository for information
-about SNAP Hydroponics.
+about SNAP hydroponics.
 
-Got any questions? Please check out the [FAQ](/faq). If any other questions not
+Got any questions? Please check out the [FAQ](/faq). For any other questions not
 found in the FAQ, you may contact:
 
 Physiology Laboratory<br>
@@ -31,3 +31,5 @@ when your SNAP garden is up and running.
 *Disclaimer:* The [maintainer](http://marcoenri.co) of this website is a SNAP
 hobbyist. He is not involved in the development, manufacture or sale of SNAP
 hydroponic solutions.
+
+*[SNAP]: Simple Nutrient Addition Program

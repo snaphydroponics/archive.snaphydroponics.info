@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   low-maintenance hydroponics system that is designed for household and
   small-scale vegetable production.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://snaphydroponics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://snap-hydroponics.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: snaphydroponics
 
 # Build settings
@@ -30,9 +30,14 @@ theme: minima
 gems:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-toc
 exclude:
   - Gemfile
   - Gemfile.lock
 disqus:
   shortname: snaphydroponics
 google_analytics: UA-29098575-5
+
+collections:
+  guides:
+    output: true
