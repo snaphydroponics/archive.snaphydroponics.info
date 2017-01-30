@@ -41,3 +41,4 @@ google_analytics: UA-29098575-5
 collections:
   guides:
     output: true
+    permalink: /guides/:path:output_ext
