@@ -1,9 +1,9 @@
 ---
-layout: long-page
 title: How to Set Up SNAP Hydroponics
 short-title: Setup
 permalink: /setup/
 toc: true
+layout: page
 ---
 
 ## 1.0 Before Anything Else
@@ -196,7 +196,8 @@ that they tend to hide already and are harder to find.
 depleted. Expect the nutrient solution level to go down when the plants are much
 bigger than when they were still small seedlings. When replenishing the solution,
  **never** allow the level of the solution to reach the bottom of the cup.
-Replenish until about ½ inch below the cup’s bottom.
+Replenish until about ½ inch below the cup’s bottom. For a visual guide please
+see the [replenishment guide](/guides/replenishment.html).
 
 ## 6.0 Final Notes
 

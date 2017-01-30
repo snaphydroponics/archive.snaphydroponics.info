@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Frequently Asked Questions
 short-title: FAQ
 permalink: /faq/
+layout: page
 ---
 
 ## What is hydroponics?

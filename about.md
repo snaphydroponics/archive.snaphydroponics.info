@@ -1,8 +1,8 @@
 ---
-layout: page
 title: About
 permalink: /about/
 author: Marco Enrico
+layout: page
 ---
 
 Hello! Welcome to the website dedicated to SNAP Hydroponics.
