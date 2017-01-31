@@ -3,6 +3,7 @@ layout: page
 date: 2017-01-31 +0800
 title: Authorized Resellers List
 short-title: Resellers
+permalink: /resellers
 ---
 
 SNAP hydroponic solutions are developed and sold at UPLB-IPB:
