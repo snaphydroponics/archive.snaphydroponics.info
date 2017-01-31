@@ -21,9 +21,10 @@ small-scale vegetable production.
 
 ## Where can I buy SNAP solutions?
 
-You can buy them from UPLB-IPB and authorized distributors. Unfortunately, the
-top hits when searching the internet for SNAP hydroponics are selling illegitimate
-products. I'm still waiting for a complete list of authorized distributors.
+You can buy them from UPLB-IPB and authorized resellers. Unfortunately, the
+top hits when searching the internet for SNAP hydroponics are selling products
+labeled "SNAP Hydroponics" but are not from UPLB-IPB. You can find a list of
+authorized resellers in the [authorized resellers list](/resellers).
 
 
 ## Where can I buy seeds?
