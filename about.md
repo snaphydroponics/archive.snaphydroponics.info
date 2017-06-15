@@ -1,5 +1,6 @@
 ---
 title: About SNAP Hydroponics
+short-title: About
 permalink: /about/
 author: Marco Enrico
 layout: page
