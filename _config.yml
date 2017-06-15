@@ -31,6 +31,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-toc
+  - jekyll-redirect-from
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -42,3 +43,6 @@ collections:
   guides:
     output: true
     permalink: /guides/:path:output_ext
+
+whitelist:
+  - jekyll-redirect-from

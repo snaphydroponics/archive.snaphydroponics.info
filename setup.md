@@ -6,6 +6,13 @@ toc: true
 layout: page
 ---
 
+## 0.0 Where to Buy SNAP Hydroponic Solutions
+
+You can buy them from UPLB-IPB and authorized resellers. Unfortunately, the top
+hits when searching the internet for SNAP hydroponics are selling products 
+labeled “SNAP Hydroponics” but are not from UPLB-IPB. You can find a list of 
+authorized resellers in the [authorized resellers list](http://snap-hydroponics.info/resellers).
+
 ## 1.0 Before Anything Else
 
 SNAP is cheap, easy to set-up, easy to maintain and most of all a fun and

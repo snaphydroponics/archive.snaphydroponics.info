@@ -201,6 +201,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-compose
+  jekyll-redirect-from
   jekyll-toc
   minima
 
