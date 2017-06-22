@@ -21,6 +21,10 @@ Phone: (049) 576-6947/ 576-3189<br>
 Below is a partial list of authorized resellers:
 
 * Anywhere in the Philippines
+    : Jose Diego E. Roxas
+    : 09062084851
+
+* Anywhere in the Philippines
     : Mr. Randel Paduganao
     : 0915-335-1983
 
