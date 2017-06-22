@@ -21,6 +21,7 @@ Phone: (049) 576-6947/ 576-3189<br>
 Below is a partial list of authorized resellers:
 
 * Anywhere in the Philippines
+    : [Green Thumb Gardening](http://facebook.com/greenthumbmnl)
     : Jose Diego E. Roxas
     : 09062084851
 
