@@ -14,4 +14,4 @@ dehydrated dust in bags or dehyrdated bricks. You can buy dehyrdated bricks of
 coco coir in Ace Hardware for ₱50. When hydrated it expands to 8-10L of hyrdated
 coco coir dust. The short video below shows this process.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BBPZwrs8Ays" frameborder="0" allowfullscreen></iframe>
+<iframe width="832" height="468" src="https://www.youtube.com/embed/BBPZwrs8Ays" frameborder="0" allowfullscreen></iframe>
