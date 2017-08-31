@@ -22,16 +22,17 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://snap-hydroponics.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: snaphydroponics
+facebook_username: simple.nutrient.addition.program
+instagram_username: snaphydroponics
 
 # Build settings
 author: The SNAP Grower
 markdown: kramdown
-theme: cayman
-gems:
+theme: jekyll-theme-cayman
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-toc
-  - jekyll-redirect-from
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -43,6 +44,3 @@ collections:
   guides:
     output: true
     permalink: /guides/:path:output_ext
-
-whitelist:
-  - jekyll-redirect-from

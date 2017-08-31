@@ -58,3 +58,21 @@ Please see the [MDS sheet](/files/Combined MSDS for SNAP A And B.pdf) for SNAP A
 ## Who are you?
 
 I'm just a hobbyist SNAP grower who enjoys growing my own food with SNAP and wants to share the fun.
+
+
+For other questions please contact UPLB-IPB:
+
+Physiology Laboratory<br>
+Institute of Plant Breeding<br>
+UP Los Baños<br>
+Phone: (049) 576-6947/ 576-3189<br>
+E-mail: [pjasantos@yahoo.com](mailto:pjasantos@yahoo.com)/[eteresaocampo@yahoo.com](mailto:eteresaocampo@yahoo.com)
+
+Be sure to join our [Facebook group](https://web.facebook.com/groups/snap.hydroponics.growers/)
+when your SNAP garden is up and running.
+
+*Disclaimer:* The [maintainer](http://marcoenri.co) of this website is a SNAP
+hobbyist. He is not involved in the development, manufacture or sale of SNAP
+hydroponic solutions.
+
+*[SNAP]: Simple Nutrient Addition Program
