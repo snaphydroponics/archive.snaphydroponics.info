@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://snaphydroponics.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: snaphydroponics
 facebook_username: simple.nutrient.addition.program
-instagram_username: snap.hydroponics
+instagram_username: snaphydroponics
 
 # Build settings
 author: The SNAP Grower
