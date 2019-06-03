@@ -1,2 +1,1 @@
-# snaphydroponics.github.io
-The SNAP hydroponics website
+This is an archive of the first SNAP Hydroponics information website.
